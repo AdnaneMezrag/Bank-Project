@@ -16,3 +16,4 @@ To run this project locally on your machine, follow the steps below:
    Open a terminal and run the following command:
    ```bash
    git clone https://github.com/yourusername/BankManagementSystem.git
+Log in using "User2" for the username and "1234" for the password.
